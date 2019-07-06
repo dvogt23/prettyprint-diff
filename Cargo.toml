@@ -2,10 +2,11 @@
 name = "prettyprint"
 license = "Apache-2.0/MIT"
 readme = "README.md"
-repository = "https://github.com/mre/prettyprint"
-version = "0.6.0"
+repository = "https://github.com/dvogt23/prettyprint-diff"
+version = "0.6.1"
 edition = "2018"
 authors = [
+    "Dimitrij Vogt <divogt@dima23.de>",
     "Matthias Endler <matthias-endler@gmx.net>",
 ]
 categories = [
@@ -13,8 +14,8 @@ categories = [
     "parsing",
 ]
 description = "Print beautifully formatted files and strings to your terminal"
-documentation = "https://github.com/mre/prettyprint/blob/master/README.md"
-homepage = "https://github.com/mre/prettyprint"
+documentation = "https://github.com/dvogt23/prettyprint-diff/blob/master/README.md"
+homepage = "https://github.com/dvogt23/prettyprint-diff"
 keywords = [
     "syntax", 
     "highlighting", 

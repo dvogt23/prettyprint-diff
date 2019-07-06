@@ -1,7 +1,6 @@
-# prettyprint 
+# prettyprint-diff 
 
-[![Documentation](https://docs.rs/prettyprint/badge.svg)](https://docs.rs/prettyprint/)
-[![Build Status](https://travis-ci.org/mre/prettyprint.svg?branch=master)](https://travis-ci.org/mre/prettyprint)  
+[![Build Status](https://travis-ci.org/dvogt23/prettyprint-diff.svg?branch=master)](https://travis-ci.org/dvogt23/prettyprint-diff)  
 
   
 Syntax highlighting library with batteries included.
@@ -70,6 +69,7 @@ When writing a command-line tool that prints text however, you might be looking 
 
 ## Credits
 
+`prettyprint-diff` is a fork of [`prettyprint`](https://github.com/mre/prettyprint) with some modifications for the usage in [`diff-rs`](https://github.com/miguelberrio91/diff-rs)
 `prettyprint` is simply a fork of [`bat`](https://github.com/sharkdp/bat/), with some functionality stripped out and bundled up as a library. 
 I built it, because [I needed it](https://github.com/sharkdp/bat/issues/423) for [cargo-inspect](https://github.com/mre/cargo-inspect/).
 All credits go to the original authors.
