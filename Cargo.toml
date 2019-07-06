@@ -17,8 +17,8 @@ description = "Print beautifully formatted files and strings to your terminal"
 documentation = "https://github.com/dvogt23/prettyprint-diff/blob/master/README.md"
 homepage = "https://github.com/dvogt23/prettyprint-diff"
 keywords = [
-    "syntax", 
-    "highlighting", 
+    "syntax",
+    "highlighting",
     "highlighter",
     "colouring",
     "prettyprint"
